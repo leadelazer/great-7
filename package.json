@@ -10,10 +10,7 @@
   },
   "dependencies": {
     "react": "^19.1.0",
-    "react/jsx-runtime": "19.0.0",
-    "react/jsx-dev-runtime": "19.0.0",
     "react-dom": "^19.1.0",
-    "react-dom/client": "19.0.0",
     "react-router-dom": "6.25.1",
     "lucide-react": "0.417.0",
     "@hello-pangea/dnd": "16.6.0",
